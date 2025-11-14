@@ -1,0 +1,11 @@
+# 5) შექმენით 5 ცვლადი name,age,surname,city,hight.name-ში შეეკითხეს სახელი,age-ში ასაკი,surname-ში გვარი,city-ში ქალაქი ხოლო hight-ში სიმაღლე.ბოლოს გამოიტანეთ ეკრანზე ასეთი ინფორმაცია "მე მქვია (თქვენი სახელი), (თქვენი ასაკი) წლის,ვცხოვრობ (სადაც ცხოვრობთ) და ვარ (თქვენი სიმაღლე) სანდიმეტრი"
+user_name = input("enter your name:")("eka")
+user_age = input("enter your age")(21)
+user_surname = input("enter youre surname")("urumashvili")
+user_city = input("enter youre city")("los angeles")
+user_hight = input("enter your hight")("2.1")
+print(user_name)
+print(user_age)
+print(user_surname)
+print(user_city)
+print(user_hight)

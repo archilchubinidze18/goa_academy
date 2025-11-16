@@ -2,5 +2,5 @@
 # "მე ვარ {age} წლის და დავიბალე {year} წელში"
 user_year = 24(input("enter your birth years:"))2001
 print(user_year)
-print("მე დავიბადე"+str()
+print"მე დავიბადე"+str()
       

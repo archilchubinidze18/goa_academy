@@ -1,2 +1,2 @@
-# 5)თქვენი სიტყვებით ახსენით For loop
-# რაღაცის რამდენჯერმე შესრულება ავტომატურათ
+# 5)sololeanr while loop ებამდე
+# gavecani while loops

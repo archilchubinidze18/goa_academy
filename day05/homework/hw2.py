@@ -1,8 +1,9 @@
 # 2)მომხარებელს შემოატანინეთ ორი რიცხვი, შემდეგ ამ 2 რიცხვს შორის ჩაატარეთ ყველა არითმეტიკული ოპერატორი (+, -, *, /, **)
-number = 2
-number1 = 5
-print(2+5)
-print(5-2)
-print(2*5)
-print(5/2)
-print(5**2)
+number = int(input("enter the first number: "))
+number1 = int(input("enter the second number: "))
+print(number+number1)
+print(number-number1)
+print(number*number1)
+print(number/number1)
+print(number//number1)
+print(number**number1)

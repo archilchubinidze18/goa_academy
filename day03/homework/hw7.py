@@ -6,15 +6,9 @@
 number=-1
 number1=2.5
 
-print(2.5+-1)
-print(2.5-1)
-print(2.5*-1)
-print(2.5/-1)
-
-print(2.5//-1)
-print(2.5//-1)
-print(2.5//-1)
-print(2.5//-1)
-
-
-
+print(number+number1)
+print(number-number1)
+print(number*number1)
+print(number/number1)
+print(number//number1)
+print(number**number1)

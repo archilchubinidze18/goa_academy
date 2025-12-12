@@ -5,5 +5,5 @@
 # დაპრინტეთ
 # "მე დავიბადე 2001 წელში და ვარ 24 წლის"
 
-user_age = 24 (input("enter_your_birth_years:"))
+user_age =  int(input("enter_your_birth_years: "))
 print("i am" +str(user_age)+"years old")

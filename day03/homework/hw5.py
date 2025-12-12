@@ -3,9 +3,6 @@
 # 2. place of bireyth
 # 3. eye color
 # ცვლადებში შესაბამისი მნიშვნელობები შეინახეთ.
-
-# my name_archil
-
-#  place of birth_18april
-
-# eye color_blue
+# my_name ="archil"
+#  place_of_birth ="18april"
+# eye_color = "blue"

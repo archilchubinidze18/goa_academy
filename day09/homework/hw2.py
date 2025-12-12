@@ -1,4 +1,5 @@
-# 2)ჩამოწერეთ და ახსენით ყველა Control Flowს ტექნიკა
-# seguencing
-# interations
-# selection
+# 2)30 დან 1 მდე გამოიტანეთ რიცხვები while loop ით
+i = 0
+while i <31:
+    print(i)
+    i=i+1

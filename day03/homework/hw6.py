@@ -1,15 +1,10 @@
 # 6) შექმენით სამი ცვლადი. სამივე ცვლადში შეინახეთ int ტიპის მნიშვნელობები.
 #  დაპრინტეთ სამივე ცვლადის ჯამი და სხვაობა
 
-number = 18+2
-number1 = 21+2
-number2 = 25+2
+number = 182
+number1 = 212
+number2 = 252
 
-print("18+2")
-print("21+2")
-print("25+2")
-
-print("18-2")
-print("21-2")
-print("25-2")
+print(number+number1+number2)
+print(number-number1-number2)
 

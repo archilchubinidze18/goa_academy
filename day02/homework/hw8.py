@@ -1,4 +1,7 @@
-#  8)რა წერია აქ არასწორად?
-#  name - "goa"
-#  print(name
-#print("goa")
+# 9)შექმენით 3 ცვლადი ბოლოს კი შეამოწმეთ მათი მონაცემთა ტიპი(შეეცადეთ რომ სამივე განსხვავებული იყოს)
+car = "eka"
+number = 18
+box = 2.5
+print(type(car))
+print(type(number))
+print(type(box))

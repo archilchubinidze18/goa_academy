@@ -1,3 +1,4 @@
-# 2)დაწერეთ კოდი for ციკლით, რომლითაც გამოიტანთ თქვენს სახელს 10-ჯერ
-for i in range(10)
-    print('archil')
+# 2)გამოიტანეთ რიცხვები 0 დან 30 მდე for loop ის დახმრებით
+
+    for i in range(30):
+    print("hello world")

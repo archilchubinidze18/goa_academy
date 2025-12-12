@@ -1,2 +1,2 @@
 # 7)მოახდინე კონკატინაციის მაგალითი
-print("archil"+"chubinidze")
+print("archil "+"chubinidze")

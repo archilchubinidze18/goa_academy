@@ -1,3 +1,3 @@
 # 1) მომხარებელს შემოატანინე რიცხვი, და შემდეგ შეამოწმე რომ ეს რიცხვი იყოს მეტი 15 ზე და მაგ რიცხვს გამოკლებული 5 იყოს მეტი 12 ზე
-user1 = int (input("enter number one:"))
-print = 20-5
+user1 = int (input("enter number one: "))
+print(user1>15 and user1-5>12)

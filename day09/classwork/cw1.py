@@ -1,4 +1,6 @@
-# 1)კომენტარებში ჩამოწერეთ ყველა control flows ტექნიკა
-# sequencing
-# selection
-# iterations
+# 1)გამოიტანეთ რიცხვები 0 დან 30 მდე while loop ის გამოყენებით
+
+i=0
+while i < 30:
+    print(i)
+    i = i + 1

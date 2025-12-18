@@ -1,3 +1,0 @@
-# 4)რამდენ ნაწილად იყო თეგები?ახსენი თითოეულ
-# tegebi iyoba or nawilat container tag gamxneli tag gamxuravi tag
-# empty tag gaxneli tag

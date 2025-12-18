@@ -1,2 +1,0 @@
-# 6)რა არის pharagraph და რისთვის იყენებენ?
-# pharagraph gamoiyeneba didi raodenobis teqstebis dasamatlebad/
